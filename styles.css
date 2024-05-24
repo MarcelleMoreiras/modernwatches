@@ -34,3 +34,8 @@
     padding: 10px;
     font-size: 14px;
 }
+
+.img-small {
+    width: 50px;
+    height: auto;
+}
