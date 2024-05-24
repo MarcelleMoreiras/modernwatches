@@ -1,0 +1,36 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #022859;
+    border-radius: 3px;
+    padding: 10px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
+
+.apresentacao__links__navegacao {
+    text-decoration: none;
+    color: #FFF;
+    padding: 10px;
+    font-size: 14px;
+}
